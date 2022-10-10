@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bandithoe
+- 👋 Hi, I’m Kim
 - 👀 I’m interested in gaming, traveling, meeting new people and everything about music (:
 - 🌱 I’m currently learning C# and game devlopment!
 - 💞️ I’m looking to collaborate on mostly game projects but also anything to learn more coding!
